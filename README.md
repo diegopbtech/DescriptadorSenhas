@@ -14,5 +14,3 @@ g++ "DescriptarSenhas.cpp" -o DescriptadorSenhas
 
 As senhas recuperadas serão exibidas no terminal e também armazenadas nos arquivos de mesmo nomes dos arquivos originais na pasta SenhasRecuperadas
 *Caso a pasta "SenhasRecuperadas" não exista, crie para que seja possível armazenar os arquivos de correção.
-
-OBS: Percebi que existe mais combinações possíveis que geram a mesma senha, porém parei na primeira encontrada e já armazenei! Não lembro do professor ter comentado a respeito.
